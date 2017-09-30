@@ -6,11 +6,11 @@ webpackJsonp([13],{
 var map = {
 	"./config/config.module": [
 		"../../../../../src/app/layout/config/config.module.ts",
-		5
+		7
 	],
 	"./cupons/cupons.module": [
 		"../../../../../src/app/layout/cupons/cupons.module.ts",
-		4
+		6
 	],
 	"./dashboard/dashboard.module": [
 		"../../../../../src/app/layout/dashboard/dashboard.module.ts",
@@ -18,11 +18,11 @@ var map = {
 	],
 	"./employee/employee.module": [
 		"../../../../../src/app/layout/employee/employee.module.ts",
-		3
+		5
 	],
 	"./history/history.module": [
 		"../../../../../src/app/layout/history/history.module.ts",
-		7
+		4
 	],
 	"./layout/layout.module": [
 		"../../../../../src/app/layout/layout.module.ts",
@@ -38,7 +38,7 @@ var map = {
 	],
 	"./orders/orders.module": [
 		"../../../../../src/app/layout/orders/orders.module.ts",
-		6
+		3
 	],
 	"./payment/payment.module": [
 		"../../../../../src/app/layout/payment/payment.module.ts",
