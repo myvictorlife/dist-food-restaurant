@@ -125,7 +125,7 @@ var OrdersComponent = (function () {
                     }
                 }
             });
-        }, 120000);
+        }, 60000);
     };
     OrdersComponent.prototype.changeStatus = function (status) {
         this.bkpOrders = this.ordersService.getAll();
